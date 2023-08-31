@@ -1,4 +1,4 @@
-# Project2
+# Asset Advantage Analyzer
 ---
 ### Proposal:
 
