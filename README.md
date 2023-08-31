@@ -8,7 +8,12 @@ make predictions on their strategy returns.  Afterwards, the returns will be use
   * The two Cryptocurrenies we will be using will be Bitcoin and Ethereum and the two equities we will be using will be Apple & Microsoft. We wil be sourcing the data through Alpaca.
   * Some of the libraries/dependencies we will be using will be tensorflow, numpy & matplotlib.
   * One machine learning library that we are using that was not taught in class is PyTorch.
-### Roles
+
+### Explanation:
+ The reason we picked these 4 is because these are the 2 largest assets (by market cap) in their respective fields.
+
+
+### Roles: 
  * Apple- Chuck
  * Microsoft - Stacey
  * Bitcoin - Parth
