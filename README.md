@@ -1,6 +1,7 @@
 # Asset Advantage Analyzer
 ---
-![Alt Text](/project_2_picutre_1.png)
+![Alt Text](project_2_picture_1.png)
+---
 ### Proposal:
 
   * Our project will look to analyze the historical trends of two cryptocurrencies and two equities to
