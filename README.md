@@ -9,7 +9,7 @@ make predictions on their strategy returns.  Afterwards, the returns will be use
   * Our analysis will use those models and predict the cumulative returns of the two asset classes to asses which one would be more advantagous for our client to invest in. 
   * The two Cryptocurrenies we will be using will be Bitcoin and Ethereum and the two equities we will be using will be Apple & Microsoft. We wil be sourcing the data through Alpaca.
   * Some of the libraries/dependencies we will be using will be tensorflow, numpy & matplotlib.
-  * One machine learning library that we are using that was not taught in class is PyTorch.
+  * One evaluation metric that we will be using that hasn't been taught in class is Mean Absolute Error (MAE).
 
 ### Explanation:
  The reason we picked these 4 is because these are the 2 largest assets (by market cap) in their respective fields.
