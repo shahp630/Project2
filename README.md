@@ -67,7 +67,12 @@
 
 # Metrics Used to Determine Best Investment Opportunity
 
-  1) 
+  1) SVM MODEL
+  2) Back Testing
+  3) Sortino Ratio
+  4) Logistic Regression
+  5) Monte Carlo Simulation
+     
 
 
 
