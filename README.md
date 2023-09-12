@@ -28,7 +28,24 @@
 
 ![1641741634588](https://github.com/shahp630/Project2/assets/133065460/43f0bfc8-3eb7-4f6d-a574-05cf4159d263)
 
-# <ins> Cryptocurrency                              vs.                              <ins> Stocks
+# Cryptocurrency                              vs.                              Stocks
+
+
+  1) # Bitcoin                                                                 1) # Apple
+
+     Market Cap: $509,407,563,366
+     Current Price: $26,167.36
+     Volume (24H): $19,067,133,974
+
+     
+
+
+  3) # Ethereum                                                                2) # Microsoft
+
+     Market Cap: $192,613,341,198
+     Current Price: $1,601.69
+     Volume (24H): $7,427,999,857
+
 
 
 
