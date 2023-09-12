@@ -64,8 +64,10 @@
      
       Volume (24H): 10,794,491
 
-# Bitcoin
-      
+
+# Metrics Used to Determine Best Investment Opportunity
+
+  1) 
 
 
 
