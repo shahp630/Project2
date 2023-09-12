@@ -12,8 +12,12 @@
 
 ![126](https://github.com/shahp630/Project2/assets/133065460/960a83f6-28a2-4080-8171-37643b17b952) 
 
+Our firm offers both Traditional & Alternative Investments:
 
 ![1641741634588](https://github.com/shahp630/Project2/assets/133065460/60954181-3dbb-453a-976c-9dcbfea4136a) 
+
+![Know-Where-To-Invest](https://github.com/shahp630/Project2/assets/133065460/973e7540-d329-4bcc-bfab-91584422df1d)
+
 
 
 
