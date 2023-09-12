@@ -10,7 +10,7 @@
 
 # Our firm offers both Traditional & Alternative Investments:
 
-![1641741634588](https://github.com/shahp630/Project2/assets/133065460/60954181-3dbb-453a-976c-9dcbfea4136a) 
+![Asset Class Icons_Traditional vs Alternative](https://github.com/shahp630/Project2/assets/133065460/eb343734-98b5-42ae-be0e-052109a66bf1)
 
 ![Know-Where-To-Invest](https://github.com/shahp630/Project2/assets/133065460/973e7540-d329-4bcc-bfab-91584422df1d)
 
