@@ -3,13 +3,14 @@
 ---
 ![Startup Investor](https://github.com/shahp630/Project2/assets/133065460/ae6b6677-163e-46ac-80ca-57ff8cac3111)
 
+# Perspective Client
+
+![istockphoto-1126598285-612x612](https://github.com/shahp630/Project2/assets/133065460/50fe28c2-7c8f-40e5-91f7-34cd69541df5)
+
 # Investment Firm : PTCS Capital
 
 ![126](https://github.com/shahp630/Project2/assets/133065460/960a83f6-28a2-4080-8171-37643b17b952) 
 
-# Perspective Client
-
-![istockphoto-1126598285-612x612](https://github.com/shahp630/Project2/assets/133065460/50fe28c2-7c8f-40e5-91f7-34cd69541df5)
 
 
 
