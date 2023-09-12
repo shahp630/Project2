@@ -18,7 +18,7 @@
 
 ![istockphoto-1126598285-612x612](https://github.com/shahp630/Project2/assets/133065460/50fe28c2-7c8f-40e5-91f7-34cd69541df5)
 
-# Interested in:
+# Client Requirements:
 
                 1) Interested in either tradtional or alternative investment opportunites
                 2) Looking for both a short and long-term investment opportunity (up to 2 year investment)
@@ -27,6 +27,8 @@
 # Client would prefer:
 
 ![1641741634588](https://github.com/shahp630/Project2/assets/133065460/43f0bfc8-3eb7-4f6d-a574-05cf4159d263)
+
+# Cryptocurrency                              vs.                              Stocks
 
 
 
