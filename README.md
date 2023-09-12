@@ -30,7 +30,7 @@
 
 # Cryptocurrency                            
 
-  1) # Bitcoin                                                                
+  # 1)  Bitcoin                                                                
 
       Market Cap: $509,407,563,366
      
@@ -38,7 +38,7 @@
      
       Volume (24H): $19,067,133,974
 
-  3) # Ethereum                                                                
+  # 2)  Ethereum                                                                
 
       Market Cap: $192,613,341,198
      
@@ -46,6 +46,23 @@
      
       Volume (24H): $7,427,999,857
 
+# Stocks
+
+  # 1)  Apple                                                                
+
+      Market Cap: $2,750,000,000
+     
+      Current Price: $175.80
+     
+      Volume (24H): 58,796,496
+
+  # 2)  Microsoft                                                                
+
+      Market Cap: $2,470,000,000
+     
+      Current Price: $332.14
+     
+      Volume (24H): 10,794,491
 
 
 
