@@ -28,7 +28,7 @@
 
 ![1641741634588](https://github.com/shahp630/Project2/assets/133065460/43f0bfc8-3eb7-4f6d-a574-05cf4159d263)
 
-# Cryptocurrency                              vs.                              <ins> Stocks
+# <ins> Cryptocurrency                              vs.                              <ins> Stocks
 
 
 
