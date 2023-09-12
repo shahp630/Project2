@@ -19,7 +19,12 @@
 ![istockphoto-1126598285-612x612](https://github.com/shahp630/Project2/assets/133065460/50fe28c2-7c8f-40e5-91f7-34cd69541df5)
 
 # Interested in:
-                1) df
+                1) Looking for an investment in an equity or cryptocurrency with a large market cap
+                2) Looking for both a short and long-term investment opportunity (up to 2 year investment)
+                3) Willing to take risks with their capital, but also interested in "safer" investment options
+
+
+      
 
 
 
