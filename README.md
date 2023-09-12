@@ -74,7 +74,38 @@
   5) Mean Absolute Error (MAE)
   6) Logistic Regression
   7) Monte Carlo Simulation
-     
+
+
+# Stock Analysis
+
+# 1) Actual vs. SVM Algorithm Returns 
+
+![1 - Actual_vs_SVM_Algo_Returns](https://github.com/shahp630/Project2/assets/133065460/54e07702-0a59-43eb-b886-617ea78c55c0)
+
+#2) SVM Classification Report
+
+![2 - SVM_Classification_Report](https://github.com/shahp630/Project2/assets/133065460/6c084b94-196b-40a2-9415-4ef849881122)
+
+#3) Actual vs. LogisticRegression
+
+![3 - Actual_vs_Logistics_Regression](https://github.com/shahp630/Project2/assets/133065460/1025d1f7-051d-48f4-a9fa-6e4ecfbbdce9)
+
+#4) LogisticRegression Classification
+
+![4 - Logistics_Regression_Classification](https://github.com/shahp630/Project2/assets/133065460/9ec2b78d-dd7c-428a-9013-0dbe6d46d57f)
+
+#5) BackTest Performance Metrics
+
+![5 - BackTest Perfromance Metrics](https://github.com/shahp630/Project2/assets/133065460/a104bc45-b144-4b5e-a499-b4cbf41f5d59)
+
+#6) Monte Carlo Simulation
+
+![6 - Monte_Carlo_AAPL_MSFT](https://github.com/shahp630/Project2/assets/133065460/65c7cb30-32dc-4f10-9f4c-56f9f4f66339)
+
+
+
+
+
 
 
 
