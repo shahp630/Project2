@@ -3,6 +3,7 @@
 ![Alt Text](project_2_picture_1.png)
 ---
 ### Proposal:
+![Alt Text](matrix.gif)
 
   * Our project will look to analyze the historical trends of two cryptocurrencies and two equities to
 make predictions on their strategy returns.  Afterwards, the returns will be used as a comparison between the two financial assets. The analysis will employ the SVC Classifier from SVM and the Logistic Regressions.
