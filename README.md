@@ -32,9 +32,9 @@
 
   1) # Bitcoin                                                                
 
-      Market Cap: $509,407,563,366
-      Current Price: $26,167.36
-      Volume (24H): $19,067,133,974
+   ##   Market Cap: $509,407,563,366
+   ##   Current Price: $26,167.36
+   ##   Volume (24H): $19,067,133,974
 
   2) # Ethereum                                                                
 
