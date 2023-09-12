@@ -75,6 +75,32 @@
   6) Logistic Regression
   7) Monte Carlo Simulation
 
+# Cryptocurrency Analysis
+
+# 1) Closing Price
+
+![Closing_Prices_BIT_ETH](https://github.com/shahp630/Project2/assets/133065460/e87db3de-822e-480b-8ce0-589483374114)
+
+# 2) SVM Classification Report
+
+![SVM_Classification Report](https://github.com/shahp630/Project2/assets/133065460/16a6a726-9f1e-4549-aac0-2a542f8feaf2)
+
+# 3) LogisticRegression Classification Report
+
+![Logistics_Regression_Classification_Report](https://github.com/shahp630/Project2/assets/133065460/1cd30506-8b52-45ab-8de2-fd7cc30533da)
+
+# 4) BackTest Performace Metrics
+
+![Backtest Performance Metrics](https://github.com/shahp630/Project2/assets/133065460/376f6909-210f-4cee-b43d-491b4b636b32)
+
+# 5) Monte Carlo Simulation (2-Years)
+
+![Monte_Carlo_Simulation_Two_Years](https://github.com/shahp630/Project2/assets/133065460/a4da7122-b651-44c9-98da-d02d9bc2e432)
+
+# 6) Monte Carlo Confidence Interval Table
+
+![Monte_Carlo_Confidence_Intervals_Table](https://github.com/shahp630/Project2/assets/133065460/52451427-a281-43ef-b52d-7da9ee2b9c3b)
+
 
 # Stock Analysis
 
