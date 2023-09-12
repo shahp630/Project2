@@ -7,7 +7,7 @@
 # Investment Firm : PTCS Capital  
 
 ![126](https://github.com/shahp630/Project2/assets/133065460/960a83f6-28a2-4080-8171-37643b17b952)  
-
+ 
 # Our firm offers both Traditional & Alternative Investments:
 
 ![Asset Class Icons_Traditional vs Alternative](https://github.com/shahp630/Project2/assets/133065460/eb343734-98b5-42ae-be0e-052109a66bf1)
