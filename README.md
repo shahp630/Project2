@@ -128,6 +128,10 @@
 
 ![New_Monte_Carlo_Combined_MSFT_AAPL](https://github.com/shahp630/Project2/assets/133065460/36b527ae-35a7-449c-915d-79f71a832ded)
 
+# Conclusion:
+
+Nowadays, investors have the opportunity to invest in a wide array of traditional and alternative investments. Their level of risk/volatility in their investments, along with their prefernce in short and long-term investments play a major role in the type of commodities they choose to invest in. For our perspective model, an investor looking for major upside, while also understading how volatile the investment may be, would look more towards an investment into Bitcoin or Ethereum. For an investor looking for a more stable increase in investment, they would look more towards blue chips stocks, such as Apple and Microsoft. The investor's investment style plays a major role in the types of investments that they make and also can impact the end return of their investment. 
+
 
 ![800px_COLOURBOX59164335](https://github.com/shahp630/Project2/assets/133065460/888d4af0-5721-4806-86b8-8427f21e7773)
 
