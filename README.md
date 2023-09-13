@@ -110,7 +110,7 @@
 
 # 2) SVM Classification Report
 
-![2 - SVM_Classification_Report](https://github.com/shahp630/Project2/assets/133065460/6c084b94-196b-40a2-9415-4ef849881122)
+![New_SVM_with Backtest](https://github.com/shahp630/Project2/assets/133065460/e2a4d84c-89bf-41e1-a654-07ad0be81bcf)
 
 # 3) Actual vs. LogisticRegression
 
@@ -118,7 +118,7 @@
 
 # 4) LogisticRegression Classification
 
-![4 - Logistics_Regression_Classification](https://github.com/shahp630/Project2/assets/133065460/9ec2b78d-dd7c-428a-9013-0dbe6d46d57f)
+![New_Logistics_Model_Classification Report](https://github.com/shahp630/Project2/assets/133065460/91b822f6-9a6d-4ebb-93e3-ad1e77d53652)
 
 # 5) BackTest Performance Metrics
 
@@ -126,7 +126,10 @@
 
 # 6) Monte Carlo Simulation
 
-![6 - Monte_Carlo_AAPL_MSFT](https://github.com/shahp630/Project2/assets/133065460/65c7cb30-32dc-4f10-9f4c-56f9f4f66339)
+![New_Monte_Carlo_Combined_MSFT_AAPL](https://github.com/shahp630/Project2/assets/133065460/36b527ae-35a7-449c-915d-79f71a832ded)
+
+
+![800px_COLOURBOX59164335](https://github.com/shahp630/Project2/assets/133065460/888d4af0-5721-4806-86b8-8427f21e7773)
 
 
 
